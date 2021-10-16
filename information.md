@@ -18,3 +18,5 @@
 # Дизайн
 
 Дизайн UI/UX будем делать в [Figma](https://www.figma.com), это [ссылка](https://www.figma.com/file/GCUwEkh5UMKsXCzo60PaO7/MD-Editor?node-id=0%3A1) на будующий дизайн
+
+# [Дискорд](https://discord.gg/wH39MkJh)
